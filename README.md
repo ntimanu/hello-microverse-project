@@ -34,7 +34,7 @@ PostgreSQL
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [No Live Demo Link]
 
 ## 💻 Getting Started
 
